@@ -12,6 +12,11 @@ Veldig bra: Python programmet åpner et PDF-dokument med samme navn fra en mappe
 Tutorial: 
 https://www.youtube.com/watch?v=IOhZqmSrjlE
 
+[Last ned Python-koden her](QRCode/QRcode.py)
+
+Du trenger noen ekstra libraries.
+
+*TODO* legg til hvordan man legger inn libraries med PIP
 
 
 ## Data fra ulike sensorer vises på en webside?
