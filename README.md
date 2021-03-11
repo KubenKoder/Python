@@ -1,6 +1,8 @@
 # Python
 Python examples and challanges for pupils at Kuben vgs
 
+[Post improvement issues, join the team or visit us on Github](https://github.com/KubenKoder/Python)
+
 ## QR-kode skanner
 
 Scenario: 
@@ -9,8 +11,8 @@ Et pythonprogram på PCn bruker den innebygde webkameraet for å lese QR-koden o
 Enkel: Teksten vises på skjermen
 Bedre: Tekst-raden legges til i en innkjøpsliste
 Veldig bra: Python programmet åpner et PDF-dokument med samme navn fra en mappe og viser det for brukeren.  For eksempel datablad for produktet i esken.
-Tutorial: 
-https://www.youtube.com/watch?v=IOhZqmSrjlE
+[Tutorial video ](https://www.youtube.com/watch?v=IOhZqmSrjlE)
+
 
 [Last ned Python-koden her](QRCode/QRcode.py)
 
